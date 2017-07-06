@@ -1,0 +1,209 @@
+/*==============================*/
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.wrap{
+	width: 100%;
+	height: 100%;
+}
+/*===================*/
+header h1{
+	letter-spacing: 0.6em;
+	color: #49BF9D;
+}
+header{
+	width: 35%;
+	height: 100%;
+	background: url(../images/301170.jpg) no-repeat;
+	position: fixed;
+}
+main{
+	width: 65%;
+	height: 100%;
+	float: right;
+}
+main section{
+	width: 100%;
+	height: 500px;
+	/*border: 1px solid black;*/
+}
+main section h3{
+	font-size: 1.2em;
+	text-align:center;
+	width: 100%;
+	background: #F7F7F7;
+}
+/*================header*/
+header{
+	text-align: center;
+	line-height: 5em;
+}
+header .myface{
+	width: 125px;
+	height: 125px;
+	overflow: hidden;
+	margin:0 auto;
+	display: block;
+	border-radius:100px;
+}
+header ul li{
+	display: inline-block;
+}
+header ul{
+	margin-top: 7em;
+}
+header ul li a{
+	display: block;
+	background: url(../images/58b985bac1fe0_1024.jpg) no-repeat;
+}
+header ul .qq a{
+	width: 3.2em;
+	height: 3.2em;
+	border-radius: 100%;
+	background-position: -14px -105px;
+}
+header ul .wx a{
+	width: 3.2em;
+	height: 3.2em;
+	border-radius: 100%;
+	background-position: -95px -100px;
+}
+header ul .wb a{
+	width: 3.2em;
+	height: 3.2em;
+	border-radius: 100%;
+	background-position: -95px -16px;
+}
+/*====================main*/
+/*===================1*/
+main section h3{
+	color: #ff4300;
+}
+main section h4{
+	color: #8e2323;
+}
+main .one{
+	overflow: hidden;
+	font-size:1.2em;
+	line-height: 3em;
+}
+main .one .one-left{
+	overflow: hidden;
+	text-align: center;
+	margin-left: 2em;
+	float: left;
+	width: 30%;
+	height: 80%;
+	/*border: 1px solid black;*/
+}
+.one-right{
+	overflow: hidden;
+	margin-right: 2em;
+	width: 50%;
+	height: 80%;
+	/*border:1px solid black;*/
+	float: right;
+}
+main .one .one-right figure img{
+	width: 20em;
+	height: 20em;
+}
+/*================2*/
+main .two div{
+	width: 100%;
+	height: 19%;
+	border: 1px solid white;
+	background:#F7F7F7;
+}
+main .two h3{
+	height: 5%;
+}
+main .two div h4{
+	font-size: 1.2em;
+	line-height: 3em;
+}
+main .two div ul{
+	margin-left: 20%;
+}
+main .two div ul li{
+	cursor: pointer;
+	display: inline;
+	margin-left: 1.2em;
+	font-size: 1.2em;
+}
+main .two div ul li:hover{
+	color: #2f2f4f;
+}
+/*============3*/
+main .three h3{
+	line-height: 5em;
+	height: 20%;
+}
+main .three div{
+	float: left;
+	margin-left: 1%;
+	width: 19%;
+	height: 60%;
+	position: relative;
+}
+main .three div img{
+	width: 100%;
+	height: 100%;
+}
+main .three div a{
+	position: absolute;
+	line-height: 3em;
+	text-align: center;
+	color: white;
+	display: block;
+	width: 3em;
+	height: 3em;
+	border-radius: 100%;
+	background: black;
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+}
+/*==================4*/
+main .four div{
+	margin-top: 10%;
+	margin-left: 1%;
+	float: left;
+	width: 24%;
+	height: 70%;
+}
+main .four div img{
+	width: 100%;
+	height: 100%;
+
+}
+
+
+
+/*=====================footer*/
+footer{
+	text-align: center;
+	width: 65%;
+	height: 200px;
+	float: right;
+}
+footer h3{
+	margin-top: 4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
